@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "video",
+  "versions": [
+    {
+      "commit": "4d04cefddc5da8aa621a19e6c49b52eca22cbf74",
+      "tag": "v0.4.2",
+      "parsed_at": "2026-10-15T10:13:40.228833+00:00"
+    }
+  ]
+}
